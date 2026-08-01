@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.equalClass {
+    background-color: rgba(255, 0, 47, 0.3);
+    font-family: 'Verdana', 'DejaVu', 'sans-serif';
+}
+
+#number2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.equalClass.cooler {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Arial', 'sans-serif';
+}
